@@ -15,10 +15,12 @@ I’m passionate about transforming raw data into actionable insights that help 
 
 ## 📂 Projects Showcase  
 
-- 📊 [**Tabali Sales Analysis (July 2024 vs 2025)**](#)  
-  Cleaned and prepared sales data using **Excel**, then built an **interactive dashboard** in **Power BI** to compare sales & quantities year-over-year.
-- 📊 [**Sales Dashboard (Excel)**](#)
-   Cleaned raw sales data and built an interactive dashboard to compare 2024 vs 2025 performance. 
+- 📊 [Tabali Sales Analysis (July 2024 vs 2025)](https://github.com/AhmedMedhatFarouk/tabali-sales-analysis-2024-2025)  
+  Cleaned and prepared sales data using **Excel**, then built an **interactive dashboard** to compare sales & quantities year-over-year.  
+
+- 📈 [Excel Sales Dashboard](https://github.com/AhmedMedhatFarouk/ecommerce-dashboard)  
+  Designed a dynamic Excel dashboard with **PivotTables & Power Query**, allowing easy tracking of KPIs and trends for business decision-making.  
+
 
 ---
   
